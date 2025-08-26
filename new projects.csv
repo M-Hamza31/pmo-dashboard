@@ -1,0 +1,121 @@
+ID,Name,Project Vendor,Project Priority,Business Owner,Project Initiation Date,Target Completion Date,Revised Timeline,Objective,Project Current Status,Project Category,Project Manager,Project Custodian
+1,Digital Insurance Portal,TechSphere Ltd,High,Ali Raza,5-Jan-2024,30-Jun-2024,15-Jul-2024,Launch an online insurance portal,Development,Major,Ahsan Khan,Sara Malik
+2,Claims Automation System,SoftMatrix,Medium,Farah Ahmed,12-Feb-2024,15-Aug-2024,,Automate claims for efficiency,Initiation,Major,Hassan Iqbal,Moiz Akram
+3,Mobile App Revamp,NextGen Solutions,High,Omer Shah,20-Mar-2024,10-Sep-2024,25-Sep-2024,Redesign mobile UI/UX,On Hold,Minor,Saad Rahim,Hiba Noor
+4,Policy Management System,Infotech Global,Low,Imran Javed,1-Apr-2024,30-Nov-2024,,Streamline policy operations,SIT,CR,Maria Siddiqui,Adnan Saeed
+5,Customer Support Chatbot,AI Works,Medium,Naila Qureshi,18-Jan-2024,5-Jul-2024,20-Jul-2024,Deploy AI chatbot for support,UAT,Minor,Shahbaz Khan,Ayesha Tariq
+6,Data Warehouse Upgrade,DataCore,High,Ahmed Kamal,22-Feb-2024,30-Aug-2024,,Upgrade data infrastructure,Deployment,Major,Hamza Tariq,Zainab Khan
+7,Sales Force Automation,CloudBridge,Low,Sara Malik,1-Mar-2024,15-Sep-2024,,Automate sales processes,Live,Minor,Sana Saeed,Saad Rahim
+8,HR Payroll System,NextGen Solutions,Medium,Hiba Noor,15-Feb-2024,10-Jul-2024,30-Jul-2024,Implement new payroll software,SIT,CR,Faizan Ali,Ayesha Tariq
+9,Cybersecurity Enhancement,TechSphere Ltd,High,Adnan Saeed,25-Jan-2024,1-Aug-2024,,Strengthen network security,Live,Major,Ahsan Khan,Hiba Noor
+10,Employee Self-Service Portal,SoftMatrix,Medium,Moiz Akram,10-Mar-2024,20-Sep-2024,,Enable employees to manage data,On Hold,Minor,Hassan Iqbal,Maria Siddiqui
+11,Compliance Tracker,Infotech Global,Low,Rabia Zafar,28-Jan-2024,10-Jun-2024,,Monitor regulatory compliance,Withdraw,Minor,Saad Rahim,Moiz Akram
+12,Customer Self-Service,AI Works,Medium,Faisal Hussain,16-Feb-2024,20-Aug-2024,5-Sep-2024,Launch self-service portal,UAT,CR,Ahsan Khan,Ayesha Tariq
+13,Claims Fraud Detection,DataCore,High,Ali Raza,22-Mar-2024,15-Sep-2024,,Detect fraudulent claims,Development,Major,Shahbaz Khan,Zainab Khan
+14,Email Marketing Automation,CloudBridge,Low,Omer Shah,4-Apr-2024,30-Nov-2024,,Automate customer campaigns,Initiation,Minor,Adnan Saeed,Hiba Noor
+15,Virtual Agent IVR,NextGen Solutions,Medium,Imran Javed,10-Jan-2024,5-Jul-2024,25-Jul-2024,IVR with AI integration,SIT,CR,Faizan Ali,Sara Malik
+16,Cloud Migration Phase 1,TechSphere Ltd,High,Naila Qureshi,17-Feb-2024,30-Aug-2024,,Migrate core systems to cloud,Deployment,Major,Mahnoor Riaz,Moiz Akram
+17,Policy Renewal Automation,SoftMatrix,Medium,Ahmed Kamal,9-Mar-2024,15-Oct-2024,,Automate policy renewal process,Live,Minor,Hamza Tariq,Adnan Saeed
+18,IoT Sensor Integration,DataCore,High,Sara Malik,19-Feb-2024,1-Sep-2024,,Integrate IoT devices,On Hold,CR,Sana Saeed,Ayesha Tariq
+19,Supply Chain Optimization,CloudBridge,Low,Hiba Noor,2-Apr-2024,25-Nov-2024,,Improve supply chain efficiency,Initiation,Major,Faizan Ali,Hiba Noor
+20,Web Analytics Dashboard,NextGen Solutions,Medium,Adnan Saeed,15-Jan-2024,1-Aug-2024,,Create a new analytics dashboard,Development,Minor,Ahsan Khan,Maria Siddiqui
+21,Customer Feedback System,SoftMatrix,Low,Moiz Akram,20-Feb-2024,1-Sep-2024,,Implement a feedback collection system,Initiation,Minor,Hassan Iqbal,Moiz Akram
+22,E-commerce Platform Relaunch,TechSphere Ltd,High,Ali Raza,25-Mar-2024,30-Oct-2024,15-Nov-2024,Relaunch e-commerce website,Deployment,Major,Saad Rahim,Zainab Khan
+23,Document Management System,Infotech Global,Medium,Farah Ahmed,8-Apr-2024,1-Dec-2024,,Digitize document storage,SIT,CR,Maria Siddiqui,Hiba Noor
+24,AI-Powered Fraud Detection,AI Works,High,Omer Shah,20-Feb-2024,15-Sep-2024,,Advanced fraud detection using AI,UAT,Major,Shahbaz Khan,Adnan Saeed
+25,Blockchain Integration,DataCore,High,Imran Javed,10-Jan-2024,10-Jul-2024,,Integrate blockchain for secure transactions,Live,Major,Hamza Tariq,Ayesha Tariq
+26,Mobile Workforce Tool,CloudBridge,Medium,Naila Qureshi,1-Mar-2024,20-Oct-2024,,Provide tools for mobile workers,Development,Minor,Sana Saeed,Sara Malik
+27,Predictive Maintenance,NextGen Solutions,Low,Ahmed Kamal,15-Mar-2024,10-Dec-2024,,Predict equipment failure,Initiation,CR,Faizan Ali,Moiz Akram
+28,CRM Upgrade,SoftMatrix,Medium,Sara Malik,2-Feb-2024,1-Aug-2024,,Upgrade existing CRM system,Live,Major,Ahsan Khan,Hiba Noor
+29,Customer Loyalty Program,NextGen Solutions,High,Hiba Noor,12-Apr-2024,30-Nov-2024,,Launch a new loyalty program,On Hold,Minor,Hassan Iqbal,Maria Siddiqui
+30,Data Governance Framework,DataCore,Low,Adnan Saeed,2-Jan-2024,10-Jul-2024,,Establish a data governance framework,SIT,Major,Saad Rahim,Adnan Saeed
+31,HR Performance Review,Infotech Global,Medium,Moiz Akram,15-Feb-2024,15-Aug-2024,,Implement performance review system,Live,Minor,Maria Siddiqui,Ayesha Tariq
+32,AI Chatbot for Sales,AI Works,High,Rabia Zafar,25-Mar-2024,1-Sep-2024,,AI chatbot for sales support,Development,Major,Shahbaz Khan,Sara Malik
+33,Cloud Security Audit,TechSphere Ltd,Medium,Faisal Hussain,10-Jan-2024,30-Jun-2024,10-Jul-2024,Conduct a cloud security audit,Live,CR,Hamza Tariq,Moiz Akram
+34,Claims Processing Automation,SoftMatrix,High,Ali Raza,1-Mar-2024,15-Oct-2024,,Automate claims processing,Initiation,Major,Sana Saeed,Hiba Noor
+35,Digital Patient Records,NextGen Solutions,Medium,Omer Shah,10-Apr-2024,1-Dec-2024,,Digitize patient records,On Hold,CR,Faizan Ali,Maria Siddiqui
+36,Inventory Management System,CloudBridge,Low,Imran Javed,15-Jan-2024,10-Jul-2024,20-Jul-2024,Implement new inventory system,Live,Minor,Ahsan Khan,Adnan Saeed
+37,Network Infrastructure Upgrade,TechSphere Ltd,Medium,Naila Qureshi,20-Feb-2024,1-Sep-2024,,Upgrade company network,SIT,Major,Hassan Iqbal,Ayesha Tariq
+38,Predictive Analytics Platform,DataCore,High,Ahmed Kamal,5-Apr-2024,30-Nov-2024,,Build a predictive analytics platform,Development,Major,Saad Rahim,Sara Malik
+39,Vendor Management Portal,Infotech Global,Low,Sara Malik,12-Jan-2024,10-Aug-2024,,Create a vendor management portal,UAT,Minor,Maria Siddiqui,Moiz Akram
+40,ERP System Implementation,SoftMatrix,High,Hiba Noor,18-Feb-2024,1-Oct-2024,15-Oct-2024,Implement new ERP software,Deployment,Major,Shahbaz Khan,Hiba Noor
+41,Customer Journey Mapping,NextGen Solutions,Medium,Adnan Saeed,25-Mar-2024,10-Sep-2024,,Map customer journeys,Live,CR,Hamza Tariq,Maria Siddiqui
+42,Data Lake Implementation,DataCore,High,Moiz Akram,10-Jan-2024,30-Jun-2024,,Build a corporate data lake,Initiation,Major,Sana Saeed,Adnan Saeed
+43,Website Redesign,CloudBridge,Low,Rabia Zafar,15-Feb-2024,1-Aug-2024,,Redesign company website,On Hold,Minor,Faizan Ali,Ayesha Tariq
+44,Security Operations Center,TechSphere Ltd,High,Faisal Hussain,20-Mar-2024,30-Nov-2024,,Establish a security operations center,Live,CR,Ahsan Khan,Sara Malik
+45,Digital Onboarding,AI Works,Medium,Ali Raza,5-Apr-2024,1-Dec-2024,,Automate new customer onboarding,SIT,Minor,Hassan Iqbal,Moiz Akram
+46,Client Reporting Portal,SoftMatrix,Low,Omer Shah,10-Jan-2024,10-Jul-2024,,Create a client reporting portal,UAT,Major,Saad Rahim,Hiba Noor
+47,Mobile Sales App,NextGen Solutions,High,Imran Javed,1-Feb-2024,20-Aug-2024,5-Sep-2024,Develop a mobile sales app,Deployment,Major,Maria Siddiqui,Maria Siddiqui
+48,Project Portfolio Management,Infotech Global,Medium,Naila Qureshi,15-Mar-2024,1-Oct-2024,,Implement PPM software,Live,CR,Shahbaz Khan,Adnan Saeed
+49,Customer Data Platform,DataCore,High,Ahmed Kamal,12-Apr-2024,30-Nov-2024,,Consolidate customer data,Development,Major,Hamza Tariq,Ayesha Tariq
+50,HR Automation,CloudBridge,Low,Sara Malik,20-Jan-2024,1-Jul-2024,15-Jul-2024,Automate HR processes,Initiation,Minor,Sana Saeed,Sara Malik
+51,Mobile App Development,SoftMatrix,Medium,Hiba Noor,2-Feb-2024,20-Aug-2024,,Develop mobile application,Live,Minor,Faizan Ali,Moiz Akram
+52,Data Migration,TechSphere Ltd,High,Adnan Saeed,15-Mar-2024,1-Oct-2024,,Migrate data to new system,Live,Major,Ahsan Khan,Hiba Noor
+53,Virtual Assistant,AI Works,Low,Moiz Akram,5-Apr-2024,30-Nov-2024,,Deploy a virtual assistant,SIT,CR,Hassan Iqbal,Maria Siddiqui
+54,Security Patching,Infotech Global,Medium,Rabia Zafar,10-Jan-2024,10-Jul-2024,,Automate security patching,UAT,Major,Saad Rahim,Adnan Saeed
+55,Cloud Native App,NextGen Solutions,High,Faisal Hussain,20-Feb-2024,1-Aug-2024,,Develop cloud native application,Development,Minor,Maria Siddiqui,Ayesha Tariq
+56,Customer Service Portal,CloudBridge,Low,Ali Raza,25-Mar-2024,30-Sep-2024,,Launch new customer service portal,On Hold,CR,Shahbaz Khan,Sara Malik
+57,Machine Learning Model,DataCore,Medium,Omer Shah,8-Apr-2024,1-Dec-2024,,Build a machine learning model,Live,Major,Hamza Tariq,Moiz Akram
+58,Unified Communications,SoftMatrix,High,Imran Javed,12-Jan-2024,1-Aug-2024,15-Aug-2024,Implement a UC system,Deployment,Major,Sana Saeed,Hiba Noor
+59,Financial Reporting,TechSphere Ltd,Low,Naila Qureshi,15-Feb-2024,30-Sep-2024,,Improve financial reporting,Live,Minor,Faizan Ali,Maria Siddiqui
+60,Data Visualization Tool,DataCore,Medium,Ahmed Kamal,20-Mar-2024,10-Nov-2024,,Create a data visualization tool,Initiation,Minor,Ahsan Khan,Adnan Saeed
+61,Digital Signature Solution,Infotech Global,High,Sara Malik,5-Apr-2024,1-Dec-2024,,Implement a digital signature solution,Development,CR,Hassan Iqbal,Ayesha Tariq
+62,AI-Powered HR,AI Works,Low,Hiba Noor,15-Jan-2024,10-Aug-2024,,Use AI in HR processes,Live,Major,Saad Rahim,Sara Malik
+63,E-learning Platform,NextGen Solutions,Medium,Adnan Saeed,2-Feb-2024,1-Sep-2024,,Develop an e-learning platform,SIT,Major,Maria Siddiqui,Moiz Akram
+64,Website Optimization,CloudBridge,High,Moiz Akram,25-Mar-2024,15-Oct-2024,,Optimize website performance,UAT,Minor,Shahbaz Khan,Hiba Noor
+65,IT Asset Management,TechSphere Ltd,Low,Rabia Zafar,10-Jan-2024,10-Jul-2024,,Track IT assets,Live,CR,Hamza Tariq,Maria Siddiqui
+66,Supply Chain Visibility,DataCore,Medium,Faisal Hussain,20-Feb-2024,1-Aug-2024,,Enhance supply chain visibility,On Hold,Major,Sana Saeed,Adnan Saeed
+67,API Management,SoftMatrix,High,Ali Raza,5-Apr-2024,30-Nov-2024,,Implement an API management solution,Live,Major,Faizan Ali,Ayesha Tariq
+68,Digital Marketing Campaign,NextGen Solutions,Low,Omer Shah,12-Jan-2024,1-Aug-2024,10-Aug-2024,Launch a digital marketing campaign,SIT,Minor,Ahsan Khan,Sara Malik
+69,Cloud Cost Optimization,CloudBridge,Medium,Imran Javed,15-Mar-2024,30-Sep-2024,,Reduce cloud spending,Live,CR,Hassan Iqbal,Moiz Akram
+70,Remote Work Solution,Infotech Global,High,Naila Qureshi,20-Jan-2024,1-Jul-2024,15-Jul-2024,Deploy a remote work solution,UAT,Major,Saad Rahim,Hiba Noor
+71,Mobile Payments,SoftMatrix,Low,Ahmed Kamal,2-Feb-2024,20-Aug-2024,,Integrate mobile payments,Development,Minor,Maria Siddiqui,Maria Siddiqui
+72,Data Migration II,TechSphere Ltd,Medium,Sara Malik,15-Mar-2024,1-Oct-2024,,Migrate legacy data,On Hold,Major,Shahbaz Khan,Adnan Saeed
+73,Business Intelligence,DataCore,High,Hiba Noor,5-Apr-2024,30-Nov-2024,,Implement a BI solution,Live,Major,Hamza Tariq,Ayesha Tariq
+74,IoT Fleet Management,CloudBridge,Low,Adnan Saeed,10-Jan-2024,10-Jul-2024,,Manage vehicle fleet with IoT,Live,CR,Sana Saeed,Sara Malik
+75,AI-Powered Customer Service,AI Works,Medium,Moiz Akram,20-Feb-2024,1-Aug-2024,,Enhance customer service with AI,Live,Minor,Faizan Ali,Moiz Akram
+76,Virtual Desktop Infrastructure,NextGen Solutions,High,Rabia Zafar,25-Mar-2024,30-Sep-2024,,Implement VDI for remote access,Initiation,Major,Ahsan Khan,Hiba Noor
+77,E-commerce SEO,SoftMatrix,Low,Faisal Hussain,8-Apr-2024,1-Dec-2024,,Improve e-commerce SEO ranking,Live,Minor,Hassan Iqbal,Maria Siddiqui
+78,Cloud-based Call Center,TechSphere Ltd,Medium,Ali Raza,12-Jan-2024,1-Aug-2024,,Migrate call center to cloud,SIT,Major,Saad Rahim,Adnan Saeed
+79,Sales Pipeline Automation,CloudBridge,High,Omer Shah,15-Feb-2024,10-Aug-2024,20-Aug-2024,Automate sales pipeline,UAT,CR,Maria Siddiqui,Ayesha Tariq
+80,Market Research Platform,Infotech Global,Low,Imran Javed,20-Mar-2024,1-Oct-2024,,Create a market research platform,Deployment,Minor,Shahbaz Khan,Sara Malik
+81,Customer Retention Program,SoftMatrix,Medium,Naila Qureshi,5-Apr-2024,30-Nov-2024,,Launch customer retention program,Live,CR,Hamza Tariq,Moiz Akram
+82,Data Quality Management,DataCore,High,Ahmed Kamal,12-Jan-2024,1-Jul-2024,,Improve data quality,Live,Major,Sana Saeed,Hiba Noor
+83,Predictive Churn Analysis,NextGen Solutions,Low,Sara Malik,1-Feb-2024,20-Aug-2024,,Predict customer churn,Development,Major,Faizan Ali,Maria Siddiqui
+84,Mobile Banking App,TechSphere Ltd,Medium,Hiba Noor,15-Mar-2024,1-Oct-2024,15-Oct-2024,Develop mobile banking app,On Hold,CR,Ahsan Khan,Adnan Saeed
+85,Vendor Portal,CloudBridge,High,Adnan Saeed,5-Apr-2024,30-Nov-2024,,Create a vendor portal,Live,Minor,Hassan Iqbal,Ayesha Tariq
+86,AI-Powered Quality Control,AI Works,Low,Moiz Akram,20-Jan-2024,10-Aug-2024,,Use AI for quality control,Live,Major,Saad Rahim,Sara Malik
+87,Customer Segmentation,DataCore,Medium,Rabia Zafar,2-Feb-2024,1-Sep-2024,,Segment customer base,Initiation,Minor,Maria Siddiqui,Moiz Akram
+88,Social Media Listening,Infotech Global,High,Faisal Hussain,25-Mar-2024,15-Oct-2024,,Track social media mentions,Development,Major,Shahbaz Khan,Hiba Noor
+89,Cloud Financials,NextGen Solutions,Low,Ali Raza,10-Jan-2024,10-Aug-2024,,Migrate financials to cloud,SIT,CR,Hamza Tariq,Maria Siddiqui
+90,IoT Asset Tracking,TechSphere Ltd,Medium,Omer Shah,15-Feb-2024,30-Sep-2024,15-Oct-2024,Track assets using IoT,UAT,Major,Sana Saeed,Adnan Saeed
+91,AI-Powered HR Recruitment,SoftMatrix,High,Imran Javed,20-Mar-2024,1-Nov-2024,,Use AI in recruitment process,Live,Minor,Faizan Ali,Ayesha Tariq
+92,E-commerce Analytics,DataCore,Low,Naila Qureshi,5-Apr-2024,1-Dec-2024,,Analyze e-commerce data,Development,CR,Ahsan Khan,Sara Malik
+93,Enterprise Content Management,Infotech Global,Medium,Ahmed Kamal,12-Jan-2024,10-Jul-2024,,Implement an ECM system,Live,Major,Hassan Iqbal,Moiz Akram
+94,IT Security Awareness,NextGen Solutions,High,Sara Malik,1-Feb-2024,20-Aug-2024,,Conduct security awareness training,On Hold,Major,Saad Rahim,Hiba Noor
+95,Business Process Automation,CloudBridge,Low,Hiba Noor,15-Mar-2024,1-Oct-2024,,Automate key business processes,SIT,Minor,Maria Siddiqui,Maria Siddiqui
+96,AI-Powered Customer Feedback,AI Works,Medium,Adnan Saeed,5-Apr-2024,30-Nov-2024,,Analyze customer feedback with AI,UAT,CR,Shahbaz Khan,Adnan Saeed
+97,Corporate Intranet,TechSphere Ltd,High,Moiz Akram,20-Jan-2024,1-Aug-2024,,Launch new corporate intranet,Deployment,Major,Hamza Tariq,Ayesha Tariq
+98,Data Backup and Recovery,Infotech Global,Low,Rabia Zafar,2-Feb-2024,20-Aug-2024,,Improve data backup and recovery,Live,Major,Sana Saeed,Sara Malik
+99,Unified Client View,SoftMatrix,Medium,Faisal Hussain,15-Mar-2024,1-Oct-2024,,Create a unified client view,Development,Minor,Faizan Ali,Moiz Akram
+100,Mobile Expense Management,NextGen Solutions,High,Ali Raza,5-Apr-2024,30-Nov-2024,,Implement mobile expense management,Live,CR,Ahsan Khan,Hiba Noor
+101,Digital Transformation Strategy,TechSphere Ltd,Low,Omer Shah,1-Feb-2024,30-Sep-2024,,Develop digital transformation strategy,Live,Major,Hassan Iqbal,Maria Siddiqui
+102,Data Science Platform,DataCore,Medium,Imran Javed,10-Mar-2024,1-Nov-2024,,Build a data science platform,Live,Minor,Saad Rahim,Adnan Saeed
+103,Cloud-based HR,CloudBridge,High,Naila Qureshi,15-Apr-2024,1-Dec-2024,,Migrate HR to cloud,Initiation,Major,Maria Siddiqui,Ayesha Tariq
+104,E-commerce Fulfillment,SoftMatrix,Low,Ahmed Kamal,20-Jan-2024,10-Aug-2024,,Improve e-commerce fulfillment,On Hold,CR,Shahbaz Khan,Sara Malik
+105,IoT Security,DataCore,Medium,Sara Malik,1-Feb-2024,1-Aug-2024,,Secure IoT devices,Development,Major,Hamza Tariq,Moiz Akram
+106,AI-Powered Marketing,AI Works,High,Hiba Noor,15-Mar-2024,15-Oct-2024,,Use AI for marketing campaigns,Live,Minor,Sana Saeed,Hiba Noor
+107,Mobile Patient Portal,NextGen Solutions,Low,Adnan Saeed,25-Jan-2024,1-Aug-2024,,Create a mobile patient portal,SIT,CR,Faizan Ali,Maria Siddiqui
+108,Data Governance,Infotech Global,Medium,Moiz Akram,10-Feb-2024,15-Sep-2024,,Implement data governance policies,UAT,Major,Ahsan Khan,Adnan Saeed
+109,Chatbot Integration,SoftMatrix,High,Rabia Zafar,1-Mar-2024,30-Nov-2024,,Integrate chatbots across platforms,Deployment,Major,Hassan Iqbal,Ayesha Tariq
+110,Cloud-based ERP,TechSphere Ltd,Low,Faisal Hussain,5-Apr-2024,1-Dec-2024,,Migrate ERP to cloud,Live,Minor,Saad Rahim,Sara Malik
+111,Data Lakehouse,DataCore,Medium,Ali Raza,12-Jan-2024,10-Jul-2024,,Build a data lakehouse,Development,Minor,Maria Siddiqui,Moiz Akram
+112,Customer Relationship Automation,CloudBridge,High,Omer Shah,20-Feb-2024,1-Sep-2024,,Automate customer relationships,Live,Major,Shahbaz Khan,Hiba Noor
+113,Employee Training Portal,NextGen Solutions,Low,Imran Javed,25-Mar-2024,15-Oct-2024,,Create an employee training portal,Initiation,CR,Hamza Tariq,Maria Siddiqui
+114,API Gateway,Infotech Global,Medium,Naila Qureshi,8-Apr-2024,1-Dec-2024,,Implement API gateway,Live,Major,Sana Saeed,Adnan Saeed
+115,AI for Customer Support,AI Works,High,Ahmed Kamal,12-Jan-2024,10-Jul-2024,,Use AI for customer support,UAT,Minor,Faizan Ali,Ayesha Tariq
+116,Cloud Migration Phase 2,TechSphere Ltd,Low,Sara Malik,15-Feb-2024,30-Sep-2024,,Migrate remaining systems to cloud,Deployment,CR,Ahsan Khan,Sara Malik
+117,Data Anonymization,DataCore,Medium,Hiba Noor,20-Mar-2024,1-Nov-2024,,Anonymize sensitive data,Live,Major,Hassan Iqbal,Moiz Akram
+118,Digital Asset Management,SoftMatrix,High,Adnan Saeed,5-Apr-2024,15-Dec-2024,,Implement a DAM system,Initiation,Minor,Saad Rahim,Hiba Noor
+119,Remote Monitoring Solution,CloudBridge,Low,Moiz Akram,10-Jan-2024,10-Jul-2024,,Deploy a remote monitoring solution,Live,Major,Maria Siddiqui,Maria Siddiqui
+120,AI-Powered Forecasting,NextGen Solutions,Medium,Rabia Zafar,15-Feb-2024,1-Aug-2024,,Use AI for sales forecasting,SIT,CR,Shahbaz Khan,Adnan Saeed
